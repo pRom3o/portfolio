@@ -2,6 +2,7 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <script setup>
 import { ref } from "vue";
+import AboutIcon from "~/public/icons/AboutIcon.vue";
 import HomeIcon from "~/public/icons/HomeIcon.vue";
 import ProjectsIcon from "~/public/icons/ProjectsIcon.vue";
 
@@ -22,12 +23,18 @@ const route = useRoute();
 const isActive = (path) => route.path === path;
 
 const currentIcon = computed(() => {
-  return route.path === "/projects" ? ProjectsIcon : HomeIcon;
+  if (route.path === "projects") {
+    return ProjectsIcon;
+  } else if (route.path === "/about") {
+    return AboutIcon;
+  } else {
+    return HomeIcon;
+  }
 });
 </script>
 
 <template>
-  <div class="">
+  <div class="bg-white">
     <div
       class="h-12 w-full flex justify-center items-center p-2 fixed top-4 left-0 z-100"
     >
@@ -66,7 +73,7 @@ const currentIcon = computed(() => {
           class="max-w-sm w-full h-30 border border-black/20 rounded-2xl relative top-[10%] left-0 bg-white flex items-center justify-center p-3"
         >
           <ul class="w-full flex items-center justify-evenly gap-2">
-            <li v-for="nav in navs" :key="nav.id" class="">
+            <li v-for="nav in navs" :key="nav.id">
               <RouterLink
                 :to="nav.path"
                 class="flex flex-col items-center text-black/70"
