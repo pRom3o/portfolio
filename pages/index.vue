@@ -1,6 +1,6 @@
 <script setup>
 // import NavBar from "~/components/NavBar.vue";
-import ArrowIcon from "~/public/icons/ArrowIcon.vue";
+import ArrowIcon from "~/public/icons/ArrowRightIcon.vue";
 import ProjectsSvg from "~/public/icons/ProjectsSvg.vue";
 import GithubIcon from "~/public/icons/GithubIcon.vue";
 import EmailIcon from "~/public/icons/EmailIcon.vue";

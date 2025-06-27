@@ -46,17 +46,17 @@ import TailwindIcon from "~/public/icons/TailwindIcon.vue";
                     AniTracker<span class="font-light text-sm">July 2025</span>
                   </p>
                   <a href="https://ani-tracker-3c5d.vercel.app/" target="_blank"
-                    ><ArrowIconBox class="p-2 bg-gray-300 rounded-full"
+                    ><ArrowIconBox class="p-2 bg-gray-300/60 rounded-full"
                   /></a>
                 </div>
-                <div class="w-full flex flex-wrap gap-2">
+                <div class="w-full flex flex-wrap gap-2 text-[10px]">
                   <p
-                    class="flex items-center gap-2 p-2 rounded-3xl bg-gray-200"
+                    class="flex items-center gap-1 px-2 py-1 rounded-xl bg-gray-300/50"
                   >
                     <VueIcon /> Vuejs
                   </p>
                   <p
-                    class="flex items-center gap-1.5 p-2 rounded-3xl bg-gray-200"
+                    class="flex items-center gap-1 px-2 py-1 rounded-xl bg-gray-300/50"
                   >
                     <TailwindIcon /> tailwind
                   </p>
@@ -81,17 +81,17 @@ import TailwindIcon from "~/public/icons/TailwindIcon.vue";
                   <a
                     href="https://space-tourism-5d3w4yzl3-romeos-projects-7381d540.vercel.app/"
                     target="_blank"
-                    ><ArrowIconBox class="p-2 bg-gray-300 rounded-full"
+                    ><ArrowIconBox class="p-2 bg-gray-300/60 rounded-full"
                   /></a>
                 </div>
-                <div class="w-full flex flex-wrap gap-2">
+                <div class="w-full flex flex-wrap gap-2 text-[10px]">
                   <p
-                    class="flex items-center gap-2 p-2 rounded-3xl bg-gray-200"
+                    class="flex items-center gap-1 px-2 py-1 rounded-xl bg-gray-300/50"
                   >
                     <VueIcon /> Vuejs
                   </p>
                   <p
-                    class="flex items-center gap-1.5 p-2 rounded-3xl bg-gray-200"
+                    class="flex items-center gap-1 px-2 py-1 rounded-xl bg-gray-300/50"
                   >
                     <TailwindIcon /> tailwind
                   </p>
@@ -116,17 +116,17 @@ import TailwindIcon from "~/public/icons/TailwindIcon.vue";
                   <a
                     href="https://advice-gen-app-wine.vercel.app/"
                     target="_blank"
-                    ><ArrowIconBox class="p-2 bg-gray-300 rounded-full"
+                    ><ArrowIconBox class="p-2 bg-gray-300/60 rounded-full"
                   /></a>
                 </div>
-                <div class="w-full flex flex-wrap gap-2">
+                <div class="w-full flex flex-wrap gap-2 text-[10px]">
                   <p
-                    class="flex items-center gap-2 p-2 rounded-3xl bg-gray-200"
+                    class="flex items-center gap-1 px-2 py-1 rounded-xl bg-gray-300/50"
                   >
                     <VueIcon /> Vuejs
                   </p>
                   <p
-                    class="flex items-center gap-1.5 p-2 rounded-3xl bg-gray-200"
+                    class="flex items-center gap-1 px-2 py-1 rounded-xl bg-gray-300/50"
                   >
                     <TailwindIcon /> tailwind
                   </p>

@@ -38,7 +38,7 @@ const currentIcon = computed(() => {
     <div
       class="h-12 w-full flex justify-center items-center p-2 fixed top-4 left-0 z-100"
     >
-      <div class="p-1">
+      <div class="bg-white rounded-full">
         <button
           class="p-2 border border-black/30 text-black/70 shadow-sm rounded-full transition-all duration-600 hover:scale-105 hover:bg-black/5 ease-in-out"
           @click="toggle"
