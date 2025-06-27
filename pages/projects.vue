@@ -36,7 +36,7 @@ import TailwindIcon from "~/public/icons/TailwindIcon.vue";
               class="h-96 md:w-96 rounded-3xl flex flex-col justify-between items-center transition-all duration-300 ease-in-out overflow-hidden border border-gray-300 hover:border-teal-500"
             >
               <img
-                src="../assets/Images/AniTracker.PNG"
+                src="../assets/Images/AniTracker.png"
                 alt="AniTracker"
                 class="rounded-t-3xl object-cover h-[50%] transition-all duration-600 hover:scale-105 ease-in-out"
               />
@@ -67,7 +67,7 @@ import TailwindIcon from "~/public/icons/TailwindIcon.vue";
               class="h-96 md:w-96 rounded-3xl flex flex-col justify-between items-center transition-all duration-300 ease-in-out overflow-hidden border border-gray-300 hover:border-teal-500"
             >
               <img
-                src="../assets/Images/Space-tourism.PNG"
+                src="../assets/Images/Space-tourism.png"
                 alt="Space tourism"
                 class="rounded-t-3xl object-cover h-[50%] transition-all duration-600 hover:scale-105 ease-in-out"
               />
@@ -102,7 +102,7 @@ import TailwindIcon from "~/public/icons/TailwindIcon.vue";
               class="h-96 md:w-96 rounded-3xl flex flex-col justify-between items-center transition-all duration-300 ease-in-out overflow-hidden border border-gray-300 hover:border-teal-500"
             >
               <img
-                src="../assets/Images/Advice.PNG"
+                src="../assets/Images/Advice.png"
                 alt="Advice Gen App"
                 class="rounded-t-3xl object-cover h-[50%] transition-all duration-600 hover:scale-105 ease-in-out"
               />
