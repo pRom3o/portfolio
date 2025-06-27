@@ -79,7 +79,7 @@ import TailwindIcon from "~/public/icons/TailwindIcon.vue";
                     >
                   </p>
                   <a
-                    href="https://space-tourism-5d3w4yzl3-romeos-projects-7381d540.vercel.app/"
+                    href="https://space-tourism-ebon-iota.vercel.app/"
                     target="_blank"
                     ><ArrowIconBox class="p-2 bg-gray-300/60 rounded-full"
                   /></a>
