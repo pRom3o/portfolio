@@ -43,7 +43,7 @@ import ArrowLeftIcon from "~/public/icons/ArrowLeftIcon.vue";
               Language, tools or frameworks I'm familiar with
             </h2>
             <p class="md:text-[11.5px] text-sm">
-              I dont really have a stack per say but maybe that'll be revealed
+              I don't really have a stack per say but maybe that'll be revealed
               when I dive deeper into ths niche or get more curious about how
               things work, but for now my go-to for front-end is
               <span class="text-green-600 font-medium">Vue.js</span>
