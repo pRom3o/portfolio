@@ -6,7 +6,7 @@ import TailwindIcon from "~/public/icons/TailwindIcon.vue";
 
 <template>
   <div
-    class="min-h-screen w-full p-5 flex items-center justify-center font-sans"
+    class="min-h-screen w-full p-5 flex items-center justify-center font-Poppins"
   >
     <div class="h-full md:w-4xl w-full md:p-6">
       <div class="flex flex-col items-center h-full w-full md:p-3">

@@ -8,7 +8,7 @@ import XIcon from "~/public/icons/xIcon.vue";
 </script>
 
 <template>
-  <div class="h-screen w-full bg-white/60 p-6">
+  <div class="h-screen w-full bg-white/60 p-6 font-Poppins">
     <div class="flex items-center justify-center h-full w-full p-3">
       <div
         class="flex flex-col justify-center items-center gap-2 p-5 md:w-[40%] w-full"

@@ -12,7 +12,7 @@ import ArrowLeftIcon from "~/public/icons/ArrowLeftIcon.vue";
 
 <template>
   <div
-    class="h-screen w-full flex items-center justify-center md:p-8 py-8 px-4 text-gray-800/90"
+    class="h-screen w-full flex items-center justify-center md:p-8 py-8 px-4 text-gray-800/90 font-Poppins"
   >
     <div class="h-full md:w-4xl w-full md:p-6">
       <div class="h-full w-full flex flex-col justify-between space-y-3">
